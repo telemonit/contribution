@@ -1,18 +1,18 @@
-## Teleoperator [Contribution](http://contribution.teleoperator.app)
+## Teleoperator [Contribution](http://contribution.telemonit.com)
 
 
 
-## Rozwiązanie [teleoperator.app](http://www.teleoperator.app)
+## Rozwiązanie [telemonit.com](http://www.telemonit.com)
 
-+ [cameramonit.com](http://www.cameramonit.com)
-+ [dokumentacja](http://docs.cameramonit.com)
-+ [logo](http://logo.cameramonit.com)
-+ [roadmap](http://roadmap.cameramonit.com)
-+ [identyfikator](http://identity.cameramonit.com)
-+ [współpraca](http://współpraca.softreck.dev)
++ [telemonit.com](http://www.telemonit.com)
++ [dokumentacja](http://docs.telemonit.com)
++ [logo](http://logo.telemonit.com)
++ [roadmap](http://roadmap.telemonit.com)
++ [identyfikator](http://identity.telemonit.com)
++ [współpraca](http://współpraca.telemonit.com)
 
 
-## [WSPÓŁPRACA](http://contribution.teleoperator.app) zawsze jest mile widziana:
+## [WSPÓŁPRACA](http://contribution.telemonit.com) zawsze jest mile widziana:
 
 + Znalazłeś [problem lub błąd](https://github.com/cameramonit/docs/issues/new)?
 + Czy chcesz [poprawić artykuł](https://github.com/cameramonit/docs/edit/main/README.md)?

@@ -1,7 +1,7 @@
-## [cameraMonit.com] to inteligentna głosowa komunikacja z wieloma kamerami
+## [telemonit.com] to inteligentna głosowa komunikacja z wieloma kamerami
 
 Wyobraź sobie system monitoringu, który nie tylko rejestruje obraz, ale również rozumie go i komunikuje się z Tobą. 
-[cameraMonit.com] rozmawia, analizuje i powiadamia wtedy gdy potrzebujesz, eliminując fałszywe alarmy.
+[telemonit.com] rozmawia, analizuje i powiadamia wtedy gdy potrzebujesz, eliminując fałszywe alarmy.
 
 - Intuicyjna obsługa systemu monitoringu
 - Głosowa szybkość dostęp do informacji o zdarzeniach
@@ -10,7 +10,7 @@ Wyobraź sobie system monitoringu, który nie tylko rejestruje obraz, ale równi
 - Najwyższy poziom bezpieczeństwa danych
 - Zgodny z wytycznymi Artificial Intelligence Act
 
-Odkryj nową erę monitoringu z cameraMonit.com - Twój inteligentny asystent jest zawsze gotowy do rozmowy!
+Odkryj nową erę monitoringu z telemonit.com - Twój inteligentny asystent jest zawsze gotowy do rozmowy!
 
 Interakcja:
 - Głosowa i tekstowa komunikacja
@@ -131,8 +131,8 @@ Zapraszamy do współpracy
 W odróżnieniu od aktualnych systemów oferujemy komunikację głosową do sterowania całą siecią kamer i wybranymi w czasie rzeczysitom oraz dostęp do archiwalnych nagrań.
 
 
-![wersja prototypowa cameramonit.com](https://github.com/cameramonit/www/assets/5669657/1c71e644-2dc9-4152-8ef3-7acb7bc97ef3)
-wersja prototypowa cameramonit.com
+![wersja prototypowa telemonit.com](https://github.com/cameramonit/www/assets/5669657/1c71e644-2dc9-4152-8ef3-7acb7bc97ef3)
+wersja prototypowa telemonit.com
 
 
 ### Oferta 
